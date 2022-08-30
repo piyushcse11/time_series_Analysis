@@ -1,1 +1,2 @@
-utility functions for this software
+utility functions for this software forecasting 
+
